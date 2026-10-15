@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Biblioteca Digital UniFECAF — versão personalizada
+# Biblioteca Digital UniFECAF — 
 
 Projeto acadêmico demonstrativo desenvolvido com HTML5 e CSS3 para a disciplina Design Web.
 
